@@ -42,6 +42,15 @@ desktop.ini
 .env.local
 *.key
 
+# Downloaded audio samples / large data
+*.wav
+*.mp3
+*.flac
+*.ogg
+
+# Local troubleshooting notes (not committed)
+Pytorch/torchaudio-ffmpeg-windows.md
+
 # Model artifacts / large data (uncomment if needed)
 # *.pt
 # *.pth
